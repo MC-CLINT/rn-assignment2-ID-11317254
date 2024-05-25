@@ -11,5 +11,5 @@ Then `npm run web`
 *You can also scan the QR code and connect or render app using the expo app on your mobile phone and then take the screenshot*
 
 # ScreenShot shown below
-!Screenshot of MyApp Screenshot_20240525-143839_Expo Go.jpg
+!Screenshot of MyApp https://github.com/MC-CLINT/rn-assignment2-ID-11317254/blob/main/Screenshot_20240525-143839_Expo%20Go.jpg?raw=true
 
